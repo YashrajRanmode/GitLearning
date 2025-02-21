@@ -1,1 +1,1 @@
-This the basicsof Git and Github .
+This the basics of Git and Github .
